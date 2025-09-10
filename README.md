@@ -21,7 +21,7 @@ Our main goal is to serve the deaf community and help us build better connection
 
 ## Demo
 
-Check out the live demo [here](https://drive.google.com/file/d/1xyJj12ig6wwdWHKbbWcAvt0zS8b794QK/view?usp=drive_link)!
+Check out the live demo [here](https://drive.google.com/file/d/1q3JYBBx0FZcxTUWKNZXEOhoSjSSlzH4z/view?usp=drivesdk)!
 
 ## Acknowledgements
 
